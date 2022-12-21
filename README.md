@@ -8,7 +8,13 @@ I primarily contribute to the Sphinx ecosystem by:
 
 <br />
 
-<img align="center" width="49%" src="metrics/header.svg" alt="Personal Overview">
+<a href="https://github.com/jdillard">
+  <img align="center" width="49%" src="metrics/header.svg" alt="Personal Overview">
+</a>
 <br/>
-<img align="center" width="49%" src="metrics/achievements.svg" alt="Metrics">
-<img align="center" width="49%" src="metrics/issue_pr.svg" alt="Metrics">
+<a href="https://github.com/jdillard">
+  <img align="center" width="49%" src="metrics/achievements.svg" alt="Metrics">
+</a>
+<a href="https://github.com/jdillard">
+  <img align="center" width="49%" src="metrics/issue_pr.svg" alt="Metrics">
+</a>
