@@ -10,3 +10,4 @@ I primarily contribute to the Sphinx ecosystem by:
 
 <img align="center" src="metrics/header.svg" alt="Metrics" width="400">
 <img align="center" src="metrics/achievements.svg" alt="Metrics" width="400">
+<img align="center" src="metrics/issue_pr.svg" alt="Metrics" width="400">
