@@ -81,3 +81,4 @@ jobs:
           config_timezone: America/Los_Angeles
           plugin_followup: yes
           plugin_followup_sections: user
+          plugin_followup_indepth: yes
