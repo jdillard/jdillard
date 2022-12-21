@@ -9,12 +9,18 @@ I primarily contribute to the Sphinx ecosystem by:
 <br />
 
 <a href="https://github.com/jdillard">
-  <img align="center" width="49%" src="metrics/header.svg" alt="Personal Overview">
+  <img align="center" width="49%" src="metrics/header.svg" alt="POverview">
 </a>
 <br/>
 <a href="https://github.com/jdillard">
-  <img align="center" width="49%" src="metrics/achievements.svg" alt="Metrics">
+  <img align="center" width="49%" src="metrics/repositories.svg" alt="Repositories">
 </a>
 <a href="https://github.com/jdillard">
-  <img align="center" width="49%" src="metrics/issue_pr.svg" alt="Metrics">
+  <img align="center" width="49%" src="metrics/activity_community.svg" alt="Activity and Community">
+</a>
+<a href="https://github.com/jdillard">
+  <img align="center" width="49%" src="metrics/achievements.svg" alt="Achievements">
+</a>
+<a href="https://github.com/jdillard">
+  <img align="center" width="49%" src="metrics/issue_pr.svg" alt="Issue and PRs">
 </a>
