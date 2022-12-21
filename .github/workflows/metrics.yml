@@ -34,7 +34,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: activity_community.svg
+          filename: metrics/activity_community.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
