@@ -8,4 +8,5 @@ I primarily contribute to the Sphinx ecosystem by:
 
 <br />
 
-![jdillard's github stats](https://github-readme-stats.vercel.app/api?username=jdillard&show_icons=true)
+<img align="center" src="metrics/header.svg" alt="Metrics" width="400">
+<img align="center" src="metrics/achievements.svg" alt="Metrics" width="400">
