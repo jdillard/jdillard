@@ -18,6 +18,28 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           base: header
+  repositories:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          template: classic
+          base: repositories
+          config_timezone: America/Los_Angeles
+  activity-community:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: activity_community.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          template: classic
+          base: activity, community
+          config_timezone: America/Los_Angeles
   achievements:
     runs-on: ubuntu-latest
     steps:
