@@ -38,7 +38,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics/issue_pr.svg
-          token: ${{ secrets.METRICS_SECRET }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           base: ""
