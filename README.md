@@ -8,6 +8,7 @@ I primarily contribute to the Sphinx ecosystem by:
 
 <br />
 
-<img align="center" src="metrics/header.svg" alt="Metrics" width="400">
-<img align="center" src="metrics/achievements.svg" alt="Metrics" width="400">
-<img align="center" src="metrics/issue_pr.svg" alt="Metrics" width="400">
+<img align="center" width="49%" src="metrics/header.svg" alt="Personal Overview">
+<br/>
+<img align="center" width="49%" src="metrics/achievements.svg" alt="Metrics">
+<img align="center" width="49%" src="metrics/issue_pr.svg" alt="Metrics">
