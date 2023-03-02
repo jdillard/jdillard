@@ -18,9 +18,3 @@ I'm a [documentation engineer](https://www.linkedin.com/in/jareddillard/) that p
 <a href="https://github.com/jdillard">
   <img align="center" width="49%" src="metrics/activity_community.svg" alt="Activity and Community">
 </a>
-<a href="https://github.com/jdillard">
-  <img align="center" width="49%" src="metrics/issue_pr_by_user.svg" alt="Issue and PRs by User">
-</a>
-<a href="https://github.com/jdillard">
-  <img align="center" width="49%" src="metrics/issue_pr_on_user.svg" alt="Issue and PRs on User">
-</a>
