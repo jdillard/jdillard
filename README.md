@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a [documentation engineer](https://www.linkedin.com/in/jareddillard/) that primarily contributes to the Sphinx ecosystem by:
+I'm a [documentation platform engineer](https://www.linkedin.com/in/jareddillard/) that primarily contributes to the Sphinx ecosystem by:
 
 - Responding to [Sphinx issues](https://github.com/sphinx-doc/sphinx/issues?q=is%3Aissue+commenter%3Ajdillard+) to reduce the load on maintainers.
 - Writing [Sphinx extensions](https://pypi.org/user/logicwon/).
