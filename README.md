@@ -11,12 +11,6 @@ I'm a [documentation platform engineer](https://www.linkedin.com/in/jareddillard
 - [Gathered support](https://github.com/sphinx-doc/sphinx/issues/11562) for a new PyPi classifier and got the [`Framework :: Sphinx :: Domain`](https://github.com/pypa/trove-classifiers/pull/163) classifier added to PyPi
 - Created a [sitemap extension](https://github.com/jdillard/sphinx-sitemap) for Sphinx that gets >200k monthly downloads
 
-<br />
-
-<a href="https://github.com/jdillard">
-  <img align="center" width="49%" src="metrics/header.svg" alt="POverview">
-</a>
-<br/>
 <a href="https://github.com/jdillard">
   <img align="center" width="49%" src="metrics/repositories.svg" alt="Repositories">
 </a>
