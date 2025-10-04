@@ -8,7 +8,7 @@ I'm a [documentation platform engineer](https://www.linkedin.com/in/jareddillard
 
 #### Notable projects
 
-- [Gathered support](https://github.com/sphinx-doc/sphinx/issues/11562) for a new PyPi classifier and got the [`Framework :: Sphinx :: Domain`](https://github.com/pypa/trove-classifiers/pull/163) classifier added to PyPi
+- [Gathered support](https://github.com/sphinx-doc/sphinx/issues/11562) for a new PyPi [`Framework :: Sphinx :: Domain`](https://github.com/pypa/trove-classifiers/pull/163) classifier and got it added to PyPi
 - Created a [sitemap extension](https://github.com/jdillard/sphinx-sitemap) for Sphinx
 - Created a [llms.txt extension](https://github.com/jdillard/sphinx-llms-txt) for Sphinx
 - Created a [callouts extension](https://github.com/jdillard/sphinx-callouts) for Sphinx
