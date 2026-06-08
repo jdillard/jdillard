@@ -2,7 +2,7 @@
 
 I'm a [documentation platform engineer](https://www.linkedin.com/in/jareddillard/) that primarily contributes to the Sphinx ecosystem by:
 
-- Triaging Sphinx [issues](https://github.com/sphinx-doc/sphinx/issues?q=is%3Aissue+commenter%3Ajdillard+) and submitting [changes](https://github.com/sphinx-doc/sphinx/commits?author=jdillard).
+- Triaging Sphinx [issues/PRs](https://github.com/sphinx-doc/sphinx/issues?q=commenter%3Ajdillard) and submitting [changes](https://github.com/sphinx-doc/sphinx/commits?author=jdillard).
 - Writing [Sphinx extensions](https://pypi.org/user/logicwon/).
 - Publishing [blog posts](https://jareddillard.com/blog/archive#sphinx) about how to better use Sphinx.
 
